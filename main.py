@@ -1,6 +1,6 @@
 import streamlit as st
 import hashlib
-from cryptography.fernet import Fernet
+from cryptography.fernet import Fernet  
 
 # Initialize session state variables
 if "page" not in st.session_state:
