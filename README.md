@@ -28,5 +28,5 @@ A simple and secure Streamlit-based web application that allows users to **creat
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/secure-vault-app.git
+git clone https://github.com/BismaYousuf/secure-vault-app.git
 cd secure-vault-app
